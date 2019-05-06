@@ -243,9 +243,9 @@ PyCharm的安装、配置和使用我们在后面会进行介绍。
     If the implementation is easy to explain, it may be a good idea.  如果你无法向人描述你的方案，那肯定不是一个好方案；反之亦然（方案测评标准）
     Namespaces are one honking great idea -- let's do more of those!  命名空间是一种绝妙的理念，我们应当多加利用（倡导与号召）
     ```
-注:https://www.jianshu.com/p/32b317be9fa1     Python智能合约编程 -- 开篇：为什么是Python
-https://www.cnblogs.com/charlesblc/p/6108115.html    The Zen of Python
-https://www.douban.com/group/topic/62910633/      发现一个Python的彩蛋,还可以再试试import antigravity.
+自批:https://www.jianshu.com/p/32b317be9fa1     Python智能合约编程 -- 开篇：为什么是Python
+     https://www.cnblogs.com/charlesblc/p/6108115.html    The Zen of Python
+     https://www.douban.com/group/topic/62910633/      发现一个Python的彩蛋,还可以再试试import antigravity.
 
 
 2. 学习使用turtle在屏幕上绘制图形。
